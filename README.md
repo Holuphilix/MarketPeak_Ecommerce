@@ -235,3 +235,13 @@ git add .
 git commit -m "Add new features or fix bugs"
 git push origin development
 ```
+![Git add commit and push](./Img/development_git_add_commit.png)
+
+##### Task 3.3: Pull Requests and Merging to the Main branch
+
+- Create a Pull Request (PR): On GitHub, create a pull request to merge the development branch into the main branch. This process is crucial for code review and maintaining code quality.
+
+![compare pull request](./Img/PR_compare.png)
+
+![create pull request](./Img/create_PR.png)
+
