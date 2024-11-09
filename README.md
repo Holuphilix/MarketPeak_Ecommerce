@@ -245,3 +245,15 @@ git push origin development
 
 ![create pull request](./Img/create_PR.png)
 
+- Switch to the Main Branch: First, make sure you’re on the main branch by running and Merge Development into Main: Merge the changes from the development branch into the main branch.
+
+**Commands:**
+```bash
+git checkout main
+git merge development
+```
+
+![switch branches](./Img/switch_branches.png)
+
+- Push the Main Branch to GitHub: Once the merge is complete, push the main branch to GitHub to update the remote repository with the changes
+
