@@ -209,8 +209,7 @@ To ensure a smooth workflow for developing, testing, and deploying my e-commerce
 
 ##### Task 3.1: Developing New Features and Fixes
 
-  - Create a Development Branch: Begin your development work by creating a separate branch. This isolates new features and bug fixes from the stable version of your website.
-
+ - Create a Development Branch: Begin your development work by creating a separate branch. This isolates new features and bug fixes from the stable version of your website. 
 **Commands:**
 ```bash
 git branch development
@@ -284,7 +283,7 @@ sudo systemctl reload httpd
 
 - Access the Website: Open a web browser and navigate to the public IP address of your EC2 instance. Test the new features or fixes to ensure they work as expected in the live environment.
 
-- This workflow emphasizes best practices in software development and deployment, including branch management, code review through pull requests, and continuous integration/deployment strategies. By following these steps, you maintain a stable and up-to-date production environment for your e-commerce platform. 
-!
+- This workflow emphasizes best practices in software development and deployment, including branch management, code review through pull requests, and continuous integration/deployment strategies. By following these steps, you maintain a stable and up-to-date production environment for your e-commerce platform. http://54.147.242.242/
 
+![Testing new changes](./Img/tested_SSH.png)
 
